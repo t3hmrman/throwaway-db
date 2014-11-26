@@ -25,5 +25,13 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/t3hmrman/throwaway-db/issues"
+  },
+  "dependencies": {
+    "q": "~1.1.2",
+    "lodash": "~2.4.1"
+  },
+  "devDependencies": {
+    "should": "~4.3.0",
+    "mocha": "~2.0.1"
   }
 }
