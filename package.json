@@ -1,0 +1,29 @@
+{
+  "name": "throwaway-db",
+  "version": "0.0.0",
+  "description": "Test utility for creating, loading and managing temporary databases",
+  "main": "throwaway-db.js",
+  "scripts": {
+    "test": "mocha -R nyan spec/"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/t3hmrman/throwaway-db.git"
+  },
+  "keywords": [
+    "test",
+    "database",
+    "node",
+    "nodejs",
+    "js",
+    "rethinkdb",
+    "fixture",
+    "migration"
+  ],
+  "author": "t3hmrman <t3hmrman@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t3hmrman/throwaway-db/issues"
+  }
+}
