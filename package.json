@@ -27,8 +27,11 @@
     "url": "https://github.com/t3hmrman/throwaway-db/issues"
   },
   "dependencies": {
+    "lodash": "~2.4.1",
+    "portfinder": "~0.2.1",
     "q": "~1.1.2",
-    "lodash": "~2.4.1"
+    "rethinkdb": "^1.15.0-0",
+    "temp": "~0.8.1"
   },
   "devDependencies": {
     "should": "~4.3.0",
