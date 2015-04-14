@@ -1,0 +1,6 @@
+# Emacs temporary files
+*~
+\#*
+*\#
+
+/node_modules/
